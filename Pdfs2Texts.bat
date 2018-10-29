@@ -10,4 +10,5 @@ for /f %%a in (%listFilePath%) do (
     pdftotext -layout %%a
 )
 
+echo èIóπ
 pause
